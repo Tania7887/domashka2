@@ -1,0 +1,15 @@
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\bin\Debug\net6.0\dom13.exe
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\bin\Debug\net6.0\dom13.deps.json
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\bin\Debug\net6.0\dom13.runtimeconfig.json
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\bin\Debug\net6.0\dom13.dll
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\bin\Debug\net6.0\dom13.pdb
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\dom13.csproj.AssemblyReference.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\dom13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\dom13.AssemblyInfoInputs.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\dom13.AssemblyInfo.cs
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\dom13.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\dom13.dll
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\refint\dom13.dll
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\dom13.pdb
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\dom13.genruntimeconfig.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka2\dom13\obj\Debug\net6.0\ref\dom13.dll
